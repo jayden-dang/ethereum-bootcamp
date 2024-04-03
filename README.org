@@ -1,0 +1,21 @@
+#+TITLE: Ethereum Bootcamp
+#+AUTHOR: Dang Quang Vu
+#+EMAIL: jayden.dangvu@gmail.com
+#+SETUPFILE: ~/theme-readtheorg.setup
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+#+EXPORT_FILE_NAME: index.html
+
+* Blockchain Fundamental
+* Ethereum Empire
+* Ethereum Virtual Machine (EVM)
+* Expressions and Control Structures
+* Layout of Storage, Memory, and Calldata
+* Function Call: High-Level, Low-Level, Assembly
+* Write Unit-Test, Coverage Test
+* Common Design Patterns
+* Smart Contract Security
+* Benchmark and Optimize Smart Contract
+* Popular and Big DeFi Protocols
+* How to audit smart contract and write a report
+* Introduce Accounts Abstraction on Ethereum
+* Hands-on your project for the bull run
